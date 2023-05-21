@@ -1,4 +1,4 @@
-## This script detects cars and tracks whether they are within a certain region to capture their license plate number.
+## This script detects cars and tracks whether they are within a certain region.
 ## Need to clone ByteTrack and Yolov5 repositories
 ### ByteTrack
 ```git clone https://github.com/ifzhang/ByteTrack.git```
