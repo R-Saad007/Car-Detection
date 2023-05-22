@@ -16,3 +16,6 @@
 ### ByteTrack -> YoloV5 + handler.py + video_folder(videos)
 ### Script Execution
 ```python handler.py -vid_path (video path from script's directory)```
+### Updates Needed
+#### designated_region_start = (xmin,ymin) (Enter the starting coordinates of your region here)
+#### designated_region_end = (xmax,ymax) (Enter the ending coordinates of your region here)
