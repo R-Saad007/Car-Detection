@@ -39,6 +39,9 @@ class handler():
         new_frame_time = 0.0
         font = cv2.FONT_HERSHEY_SIMPLEX
         # Test Video Resolution = 3840 × 2160 => 1080 x 720
+        '''
+        You can change the region coordinates below
+        '''
         designated_region_start = (700,1950)
         designated_region_end = (3200,2140)
         # video capture object
